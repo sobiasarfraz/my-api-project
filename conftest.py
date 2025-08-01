@@ -7,6 +7,7 @@ import logging
 from selenium.webdriver.chrome.options import Options
 import tempfile
 import os
+import shutil  # Import shutil to remove non-empty directories
 
 
 @pytest.fixture(scope="class")
@@ -27,9 +28,12 @@ def setup(request):
     driver.quit()
 
     # Cleanup: remove the temporary user data directory after the test
-    if os.path.exists(user_data_dir):
-        os.rmdir(user_data_dir)
+    #if os.path.exists(user_data_dir):
+        #os.rmdir(user_data_dir)
 
+ # Cleanup: remove the temporary user data directory after the test
+    if os.path.exists(user_data_dir):
+        shutil.rmtree(user_data_dir)  # Use shutil to remove non-empty directory
 
 def setlog():
     logging.basicConfig(
