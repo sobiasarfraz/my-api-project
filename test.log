@@ -42,3 +42,12 @@
 2025-07-31 19:35:17,495:INFO:data is fetched
 2025-07-31 19:35:22,166:INFO:scrennshot is saved in ..\..\screenshots\dog_img250731-193521.png
 2025-07-31 19:35:22,166:INFO:Working directory: ..\..\screenshots\dog_img250731-193521.png
+2025-07-31 23:16:48,376:INFO:successfulyy fetch data , and tests are clear
+2025-07-31 23:16:48,378:INFO:====== WebDriver manager ======
+2025-07-31 23:16:51,139:INFO:Get LATEST chromedriver version for google-chrome
+2025-07-31 23:16:51,217:INFO:Get LATEST chromedriver version for google-chrome
+2025-07-31 23:16:51,287:INFO:Driver [C:\Users\Asif Saleem\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 23:16:53,224:INFO:test start
+2025-07-31 23:16:53,571:INFO:data is fetched
+2025-07-31 23:16:58,262:INFO:scrennshot is saved in ..\..\screenshots\dog_img250731-231657.png
+2025-07-31 23:16:58,262:INFO:Working directory: ..\..\screenshots\dog_img250731-231657.png
