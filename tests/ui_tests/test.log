@@ -1,0 +1,15 @@
+2025-07-31 18:33:22,121:INFO:====== WebDriver manager ======
+2025-07-31 18:33:23,754:INFO:Get LATEST chromedriver version for google-chrome
+2025-07-31 18:33:23,864:INFO:Get LATEST chromedriver version for google-chrome
+2025-07-31 18:33:23,925:INFO:Driver [C:\Users\Asif Saleem\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 18:33:25,842:INFO:test start
+2025-07-31 18:33:26,356:INFO:data is fetched
+2025-07-31 18:33:31,034:INFO:scrennshot is saved in ..\..\screenshots\dog_img250731-183330.png
+2025-07-31 18:36:04,303:INFO:====== WebDriver manager ======
+2025-07-31 18:36:06,705:INFO:Get LATEST chromedriver version for google-chrome
+2025-07-31 18:36:06,853:INFO:Get LATEST chromedriver version for google-chrome
+2025-07-31 18:36:06,925:INFO:Driver [C:\Users\Asif Saleem\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-31 18:36:08,713:INFO:test start
+2025-07-31 18:36:09,059:INFO:data is fetched
+2025-07-31 18:36:13,835:INFO:scrennshot is saved in ..\..\screenshots\dog_img250731-183613.png
+2025-07-31 18:36:13,835:INFO:Working directory:, os.getcwd()
