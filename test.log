@@ -60,3 +60,18 @@
 2025-07-31 23:31:13,081:INFO:data is fetched
 2025-07-31 23:31:17,601:INFO:scrennshot is saved in ..\..\screenshots\dog_img250731-233117.png
 2025-07-31 23:31:17,601:INFO:Working directory: ..\..\screenshots\dog_img250731-233117.png
+2025-08-01 10:49:18,684:INFO:successfulyy fetch data , and tests are clear
+2025-08-01 10:49:18,689:INFO:====== WebDriver manager ======
+2025-08-01 10:49:21,582:INFO:Get LATEST chromedriver version for google-chrome
+2025-08-01 10:49:21,694:INFO:Get LATEST chromedriver version for google-chrome
+2025-08-01 10:49:21,754:INFO:Get LATEST chromedriver version for google-chrome
+2025-08-01 10:49:21,914:INFO:WebDriver version 138.0.7204.183 selected
+2025-08-01 10:49:21,918:INFO:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-01 10:49:21,918:INFO:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-01 10:49:21,998:INFO:Driver downloading response is 200
+2025-08-01 10:49:22,240:INFO:Get LATEST chromedriver version for google-chrome
+2025-08-01 10:49:23,533:INFO:Driver has been saved in cache [C:\Users\Asif Saleem\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-01 10:49:25,256:INFO:test start
+2025-08-01 10:49:25,627:INFO:data is fetched
+2025-08-01 10:49:30,397:INFO:scrennshot is saved in ..\..\screenshots\dog_img250801-104930.png
+2025-08-01 10:49:30,397:INFO:Working directory: ..\..\screenshots\dog_img250801-104930.png
