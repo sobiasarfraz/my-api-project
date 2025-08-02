@@ -30,7 +30,12 @@ jobs:
         pytest --maxfail=1 --disable-warnings -q
     - name: Run Pytest
       run: |
-          pytest --html=report.html --self-contained-html  
+          pytest --html=report.html --self-contained-html
+    - name: Upload Pytest Report
+      uses: actions/upload-artifact@v3
+      with:
+        name: pytest-report
+        path: report.html
         
         
         
