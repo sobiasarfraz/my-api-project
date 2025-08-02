@@ -28,6 +28,9 @@ jobs:
     - name: Run tests
       run: |
         pytest --maxfail=1 --disable-warnings -q
+    - name: Run Pytest
+      run: |
+          pytest --html=report.html --self-contained-html  
         
         
         
